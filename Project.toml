@@ -1,0 +1,12 @@
+name = "SoilScienceModel"
+uuid = "a1b2c3d4-e5f6-a7b8-c9d0-e1f2a3b4c5d6"
+authors = ["Jules <jules@example.com>"]
+version = "0.1.0"
+
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Roots = "f2b01f46-fcfa-551c-844a-d8ac1e96c665"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+
+[compat]
+julia = "1.9"

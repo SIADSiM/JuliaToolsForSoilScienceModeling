@@ -1,0 +1,31 @@
+@startuml
+skinparam componentStyle uml2
+
+package "SoilScienceModel" {
+    package "Physics" {
+        [soil_moisture_balance]
+        [green_ampt_infiltration]
+        [soil_temperature_profile]
+    }
+
+    package "Hydrology" {
+        [penman_monteith_et]
+        [soil_water_retention_vg]
+    }
+
+    package "Biogeochemistry" {
+        [nitrogen_mineralization]
+        [soil_respiration_q10]
+        [soil_carbon_decomposition]
+    }
+
+    package "Erosion" {
+        [bulk_density_calc]
+        [soil_erosion_usle]
+    }
+
+    [green_ampt_infiltration] ..> [Roots.jl] : uses
+    [soil_moisture_balance] ..> [DataFrames.jl] : uses
+}
+
+@enduml
