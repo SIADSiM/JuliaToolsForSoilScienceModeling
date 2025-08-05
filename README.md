@@ -1,4 +1,5 @@
-# Julia Tools Fo rSoil Science Modeling
+# Julia Tools For Soil Science Modeling
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16748328.svg)](https://doi.org/10.5281/zenodo.16748328)
 
 A Julia-based, high-performance soil science modeling toolkit for simulating physical, hydrological, biogeochemical, and erosion processes.
 
