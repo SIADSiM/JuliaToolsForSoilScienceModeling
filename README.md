@@ -1,5 +1,6 @@
 # Julia Tools For Soil Science Modeling
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16748328.svg)](https://doi.org/10.5281/zenodo.16748328)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSIADSiM%2FJuliaToolsForSoilScienceModeling.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FSIADSiM%2FJuliaToolsForSoilScienceModeling?ref=badge_shield)
 
 A Julia-based, high-performance soil science modeling toolkit for simulating physical, hydrological, biogeochemical, and erosion processes.
 
@@ -72,6 +73,9 @@ This project is licensed under a custom non-commercial license.
 * ❌ **Commercial use is strictly prohibited without a separate license.**
 
 For commercial licensing inquiries, please contact me at ** s i a d s i m @ g m a i l . c o m  **.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSIADSiM%2FJuliaToolsForSoilScienceModeling.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FSIADSiM%2FJuliaToolsForSoilScienceModeling?ref=badge_large)
 
 ## 📑 References
 
